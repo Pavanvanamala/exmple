@@ -1,0 +1,87 @@
+.card{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.basic{
+    color: orange;
+}
+
+.social{
+    color: deepskyblue;
+}
+
+.marketing{
+    color: lime;
+}
+
+p{
+    color: grey;
+    padding-left: 40px;
+}
+
+.list{
+    list-style: none;
+    color: grey;
+}
+
+.box1{
+    list-style:none;
+    border:1px solid grey;
+    border-radius:5%;
+    background-color: grey;
+    color: black;
+    opacity:60%;
+    height:30px;
+    padding-top: 10px;
+
+    
+}
+
+.box2{
+    list-style:none;
+    border:1px solid grey;
+    border-radius: 5%;
+    background-color:white;
+    color: black;
+    opacity:60%;
+    height:30px;
+    padding-top: 10px;
+
+    
+}
+
+.box3{
+    list-style:none;
+    border:1px solid grey;
+    border-radius:5%;
+    background-color:lime;
+    color: white;
+    opacity:60%;
+    height:30px;
+    padding-top: 10px;
+    
+}
+
+
+
+.space1{
+    padding-top: 10px;
+}
+
+.font{
+    font-size: 15px;
+    color: grey;
+}
+
+h1,h2{
+    padding-left:40px;
+}
+
+.box1,.box2,.box3{
+    border: 2px solid black;
+    margin-left: 40px;
+}
+
+
+
